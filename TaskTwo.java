@@ -1,5 +1,4 @@
 
-/// by uran
 import java.util.Scanner;
 
 public class TaskTwo {
