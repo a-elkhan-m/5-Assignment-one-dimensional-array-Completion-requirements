@@ -1,4 +1,4 @@
-/// by uran
+
 
 import java.util.Scanner;
 
